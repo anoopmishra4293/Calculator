@@ -1,0 +1,25 @@
+.display {
+    display: inline-block;
+    text-align: end;
+    border:solid blue;
+    width: 27.7rem;
+    height: 7rem;
+    font-size: 3rem;
+    word-wrap: break-word;
+}
+
+.equal {
+    width: 28rem;
+    height: 4.5rem;
+    font-size: 4rem;
+    background-color: tomato;
+    border: 1px solid blue;
+
+}
+
+.style {
+    width: 7rem;
+    height: 4.5rem;
+    font-size: xx-large;
+    border: 1px solid blue;
+}
